@@ -5,7 +5,7 @@
 
 ## Overview
 
-The project task was to build an annotated dataset of images, to train two different neural networks on object detection in these images, and to compare the performance of these models.
+The project task was to build an annotated dataset of images, to train two different neural networks on object detection in these images, and to compare the performance of these models. For my project, I took pictures of my laptop and dining utensils with my iPhone camera.
 
 The dataset was annotated on Roboflow, and it can be publicly accessed here: https://app.roboflow.com/rajiv-ramans-machine-learning-workspace/aipi-590-acv-project-2/2.
 
