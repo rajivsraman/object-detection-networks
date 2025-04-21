@@ -29,7 +29,7 @@ def main():
     check_dataset("dataset_yolo/test/images", "dataset_yolo/test/labels")
 
     # Step 3: Load and train YOLOv8
-    model = YOLO("yolov8m.pt")
+    model = YOLO("yolov8n.pt")
 
     model.train(
         data="dataset_yolo/data.yaml",
